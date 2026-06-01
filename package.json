@@ -1,0 +1,13 @@
+{
+  "name": "pricing-extractor-cloud",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Cloud batch pricing extractor: web UI + Playwright + DeepSeek.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "playwright": "^1.49.0"
+  }
+}
